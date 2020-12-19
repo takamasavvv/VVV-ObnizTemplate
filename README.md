@@ -1,2 +1,2 @@
 # VVV-ObnizTemplate
-Template repository
+Template repository for obniz
